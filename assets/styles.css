@@ -19,6 +19,12 @@ body.bg-beige {
   color: rgb(255, 255, 255);
 }
 
+.proyectosCard {
+  background-color: #d0cdfb;
+  border: #f6f0dc;
+  border-radius: 5px;
+}
+
 #habilidades-Tecnicas {
   background-color: #29b5b1;
 }
